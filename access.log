@@ -1,0 +1,7 @@
+192.168.1.50 - - "POST /login HTTP/1.1" 401 234
+192.168.1.50 - - "POST /login HTTP/1.1" 401 234
+192.168.1.50 - - "POST /login HTTP/1.1" 401 234
+192.168.1.50 - - "POST /login HTTP/1.1" 401 234
+192.168.1.50 - - "POST /login HTTP/1.1" 401 234
+192.168.1.50 - - "POST /login HTTP/1.1" 401 234
+172.16.0.5 - - "GET /../../etc/passwd HTTP/1.1" 400 124
